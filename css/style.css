@@ -1,0 +1,16 @@
+.container{
+    border:2px solid;
+}
+.container-fluid{
+    border: 2px solid;
+}
+.row{
+    border:2px solid red;
+}
+/* .col{
+    border:2px solid blue;
+    background-color: gray;
+} */
+.row-cols-2{
+    background-color: aqua;
+}
